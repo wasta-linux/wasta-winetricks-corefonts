@@ -8,6 +8,6 @@ Homepage: https://github.com/wasta-linux/wasta-winetricks-corefonts
 
 Package: wasta-winetricks-corefonts
 Architecture: all
-Depends: ${misc:Depends}
+Depends: wasta-winetricks, ${misc:Depends}
 Description: Bundled corefonts for winetricks
  Bundled corefonts winetricks cache for use by various Wasta-Wine packages.

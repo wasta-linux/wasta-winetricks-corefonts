@@ -1,3 +1,9 @@
+wasta-winetricks-corefonts (1.0.1) focal; urgency=medium
+
+  * adding wasta-winetricks dependency
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Mon, 21 Sep 2020 17:41:07 +0300
+
 wasta-winetricks-corefonts (1.0.0) focal; urgency=medium
 
   * initial release
